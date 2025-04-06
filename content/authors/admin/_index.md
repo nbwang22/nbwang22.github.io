@@ -33,8 +33,8 @@ profiles:
   - icon: envelope
     url: 'mailto:nbwang@mit.edu' 
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/nbwang22
+#   - icon: brands/x
+#     url: https://twitter.com/nbwang22
   - icon: brands/github
     url: https://github.com/nbwang22
   - icon: brands/linkedin
