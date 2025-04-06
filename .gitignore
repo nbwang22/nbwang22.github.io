@@ -1,9 +1,9 @@
-# IDEs
-.idea/
-
 # Hugo
 resources/
 public/
 .DS_Store
 *.icloud
 content/publication/.DS_Store
+
+# AI
+2025.04.06_featured.ai

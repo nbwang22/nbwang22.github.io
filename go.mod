@@ -1,8 +1,8 @@
-module nbwang22.github.io
+module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201109174124-1ed538027a75 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201117181103-9852d63bc4a5
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231209203044-d31adfedd40b
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1
 )
