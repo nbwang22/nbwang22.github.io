@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
 #   - icon: brands/x
 #     url: https://twitter.com/nbwang22
-  - icon: brands/github
-    url: https://github.com/nbwang22
+#  - icon: brands/github
+#    url: https://github.com/nbwang22
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nathan-b-wang/
   - icon: academicons/google-scholar
