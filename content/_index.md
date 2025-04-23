@@ -38,7 +38,7 @@ sections:
       text: |-
         I'm a researcher in the [Galloway Lab](https://gallowaylab.mit.edu/) at MIT.
         
-        My work covers understanding and engineering mammalian cells for therapeutic applications, especially in the context of cell reprogramming.
+        My work covers understanding and engineering mammalian cells for therapeutic applications, with additional expertise in the context of cell reprogramming.
     design:
       columns: '1'
 

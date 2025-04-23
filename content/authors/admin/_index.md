@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Nathan (Nat) B. Wang
+title: Nat B Wang, PhD
 
 # Full name (for SEO)
-first_name: Nathan B.
+first_name: Nathan B
 last_name: Wang
 
 # # Status emoji
@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate, Chemical Engineering, MIT
+role: Researcher, Chemical Engineering, MIT
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -79,11 +79,10 @@ education:
 work:
 
   - position: PhD candidate with Prof. Kate E Galloway
-    company_name: University of Wisconsin–Madison
+    company_name: Massachusetts Institute of Technology
     company_url: ''
     company_logo: ''
-    date_start: '2016-01-01'
-    date_end: '2019-05-01'
+    date_start: '2019-11-01'
     summary: |
       - 🔧 Engineered direct conversion of primary mouse embryonic fibroblasts into induced motor neurons
         - Improved conversion yield to >1,000% and purity to >50% (x1,000 and x10 fold improvement)
@@ -222,4 +221,4 @@ awards:
 
 ## About Me
 
- Nat B. Wang is currently a PhD candidate in the Galloway Lab researching how to engineer mammalian cells, particularly in the context of cell fate reprogramming. His research interests are in developing genetic tools that work robustly in primary mammalian cells and engineering across molecular- and process- level scales. He is particularly interested in working on challenges that will result in impactful cell and gene therapies.
+ Nathan (Nat) B Wang is currently a researcher in the Galloway Lab researching how to engineer mammalian cells, particularly in the context of cell fate reprogramming. His research interests are in developing genetic tools that work robustly in primary mammalian cells and engineering across molecular- and process- level scales. He is especially interested in working on challenges that will result in impactful cell and gene therapies.
