@@ -36,7 +36,7 @@ sections:
       title: '📚 My research'
       subtitle: ''
       text: |-
-        I'm a researcher in the [Galloway Lab](https://gallowaylab.mit.edu/) at MIT.
+        I'm a postdoc in the [Galloway Lab](https://gallowaylab.mit.edu/) at MIT.
         
         My work covers understanding and engineering mammalian cells for therapeutic applications, with additional expertise in the context of cell reprogramming.
     design:
